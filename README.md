@@ -2,7 +2,7 @@
 
 Internship Tasks
 
-I deployed these webpages in to netlify site you can visit here:
+I deployed these webpages in to netlify site, you can visit here:
 
 Task 1: https://symphonious-valkyrie-319db8.netlify.app/
 
